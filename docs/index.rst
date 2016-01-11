@@ -8,10 +8,10 @@ Virtualenv Korean Documenatation
 User IRC: #pypa
 Dev IRC: #pypa-dev
 
-Introduction
-------------
+소개
+----
 
-``virtualenv`` is a tool to create isolated Python environments.
+``virtualenv`` 은 독립적인 파이썬 환경을 만들어주는 도구이다.
 
 The basic problem being addressed is one of dependencies and versions,
 and indirectly permissions. Imagine you have an application that
