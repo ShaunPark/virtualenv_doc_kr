@@ -1,9 +1,9 @@
-User Guide
-==========
+사용자 가이드
+=============
 
 
-Usage
------
+사용법
+------
 
 Virtualenv has one basic command::
 
